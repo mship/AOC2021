@@ -1,1 +1,3 @@
 # AOC2021
+
+I will be using this repo to store my code for this years Advent of Code! Time to save Christmas...
